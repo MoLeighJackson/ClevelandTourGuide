@@ -3,5 +3,8 @@
     <string name="title_activity_lincoln_park">LincolnParkActivity</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location_edgewater">Edgewater Beach</string>
+    <string name="location_lincolnpark">Lincoln Park</string>
+    <string name="location_publicsquare">Public Square</string>
+    <string name="location_steelyardcommons">Steelyard Commons</string>
 </resources>
