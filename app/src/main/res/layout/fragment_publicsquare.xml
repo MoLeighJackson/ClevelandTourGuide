@@ -20,6 +20,18 @@
         android:text="stuff to do">
     </ListView>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/publicsquare"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:text="@string/image_credit"
+        android:textSize="5sp"/>
+
 
 
 </LinearLayout>

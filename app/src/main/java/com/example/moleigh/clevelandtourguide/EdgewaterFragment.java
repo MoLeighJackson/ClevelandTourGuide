@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -47,6 +48,7 @@ public class EdgewaterFragment extends Fragment {
         );
 
         listView.setAdapter(listViewAdapter);
+
 
         return view;
 
