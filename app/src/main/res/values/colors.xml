@@ -3,4 +3,6 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="publicSquareBG">#16a29d</color>
+    <color name="steelyardBG">#17f639</color>
 </resources>

@@ -2,7 +2,13 @@
     <string name="app_name">Cleveland Tour Guide</string>
     <string name="title_activity_lincoln_park">LincolnParkActivity</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
+    <!--addresses-->
+    <string name="address_edgewater">6500 Cleveland Memorial Shoreway, Cleveland, Ohio 44102</string>
+    <string name="address_lincolnpark">1200 Starkweather Ave, Cleveland, OH 44113</string>
+    <string name="address_publicsquare">Public Square, Cleveland, OH 44113</string>
+    <string name="address_steelyard">3447 Steelyard Dr, Cleveland, OH 44109</string>
+
+    <!--names-->
     <string name="location_edgewater">Edgewater Beach</string>
     <string name="location_lincolnpark">Lincoln Park</string>
     <string name="location_publicsquare">Public Square</string>
